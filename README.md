@@ -1,4 +1,4 @@
-# FUTURE_UX_01 — NivaasCare Website Redesign
+# FUTURE_UIUX_01 — NivaasCare Website Redesign
 
 Responsive three-page website concept for **Future Interns UI/UX Design — Task 1: Local Service Business Website Redesign**.
 
