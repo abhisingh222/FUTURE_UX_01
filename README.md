@@ -4,9 +4,10 @@ A responsive three-page local home-cleaning service website concept created for 
 
 ## Project deliverables
 - **Homepage** — clear value proposition, service discovery, trust cues, three-step process and repeated estimate CTAs.
-- **Services page** — deep cleaning, kitchen care and bathroom care with scope explanations and enquiry links.
+- **Services page** — deep cleaning, kitchen care, bathroom care, scope explanations and contextual enquiry links.
 - **Contact / lead page** — enquiry form with required contact and locality fields, optional message, and service preselection from service-page links.
-- **UX rationale** — design decisions, information architecture, proposed conversion measures and prototype limitations in [docs/design-rationale.md](docs/design-rationale.md).
+- **UX rationale** — design decisions, information architecture, conversion measures and prototype limitations in [docs/design-rationale.md](docs/design-rationale.md).
+- **Case study and QA checklist** — [docs/task-1-case-study.md](docs/task-1-case-study.md).
 
 ## Live preview
 [Open the GitHub Pages website](https://abhisingh222.github.io/FUTURE_UIUX_01/)
@@ -14,7 +15,7 @@ A responsive three-page local home-cleaning service website concept created for 
 ## Figma design
 [Open the editable NivaasCare Figma file](https://www.figma.com/design/pftUOxZ0eThvlpzZTweT97)
 
-The Figma file contains desktop and mobile frames for the homepage, services and contact/lead flow, plus a UX rationale frame. Shared CTA components were normalized to a 48 px height during QA.
+The Figma file includes desktop and mobile frames for the homepage, services and contact/lead flow, plus a UX rationale frame. Shared Primary and Secondary CTA components were normalized to 48 px height during QA.
 
 ## Repository structure
 - `index.html` — homepage.
@@ -23,6 +24,7 @@ The Figma file contains desktop and mobile frames for the homepage, services and
 - `styles.css` — responsive visual system and layouts.
 - `script.js` — mobile navigation, service preselection and demo form feedback.
 - `docs/design-rationale.md` — UX and conversion rationale.
+- `docs/task-1-case-study.md` — full case study and submission QA checklist.
 
 ## Run locally
 Open `index.html` in a browser. No build step or package installation is required.
@@ -32,3 +34,6 @@ NivaasCare is a fictional concept. Contact details, service area and operational
 
 ## Accessibility and responsive behavior
 The interface includes semantic page structure, labelled form controls, keyboard-visible focus states, a mobile navigation toggle, responsive layouts and reduced-motion support.
+
+## Internship submission note
+The selection email names this public repository FUTURE_UIUX_01 and asks for submission through the official task portal. The handbook separately gives the UI/UX naming convention FUTURE_UX_TaskNumber. Verify the exact Task 1 naming instruction in the portal before renaming this existing repository.
