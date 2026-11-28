@@ -26,6 +26,9 @@ The Figma file includes desktop and mobile frames for the homepage, services and
 - `docs/design-rationale.md` — UX and conversion rationale.
 - `docs/task-1-case-study.md` — full case study and submission QA checklist.
 
+## Verification status
+The GitHub Pages workflow completed successfully for the latest checked project commit on 28 November 2026. See [the Task 1 case study](docs/task-1-case-study.md) for the QA checklist, prototype limitations and remaining handoff items. The full Figma visual audit and official portal submission are still pending confirmation.
+
 ## Run locally
 Open `index.html` in a browser. No build step or package installation is required.
 
