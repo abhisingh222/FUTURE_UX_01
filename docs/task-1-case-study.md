@@ -11,6 +11,8 @@
 
 **Prototype / repository:** [FUTURE_UIUX_01 on GitHub](https://github.com/abhisingh222/FUTURE_UIUX_01)
 
+**Live preview:** [GitHub Pages website](https://abhisingh222.github.io/FUTURE_UIUX_01/)
+
 ## Problem statement
 People looking for home-cleaning help need to quickly understand what services are offered, what each service covers, whether the provider serves their locality, and how to request a quote. Vague service descriptions and unclear next steps create friction and can cause visitors to leave before enquiring.
 
@@ -73,9 +75,11 @@ These are proposed measures, not observed results:
 - [x] Required fields and native form validation are present.
 - [x] Mobile navigation and responsive layouts are implemented.
 - [x] UX rationale and project documentation are included.
-- [ ] Visual inspection of every Figma frame and prototype interaction (temporarily blocked by Figma MCP monthly/plan call limit).
-- [ ] Verify the deployed GitHub Pages URL in a browser after the latest commits.
-- [ ] Replace sample business data if this concept is ever used by a real business.
+- [x] GitHub Pages deployment workflow completed successfully for the latest checked commit (28 November 2026).
+- [ ] Full Figma visual inspection and prototype-interaction audit. Figma MCP editing/inspection is currently blocked by the connected plan's tool-call limit; the file remains accessible through the design link.
+- [ ] Official Task Submission Portal submission. The selection email says the portal will be shared separately; no portal link was present in the provided email/handbook files.
 
-## Official internship submission reminder
-The selection email requests a public GitHub repository named FUTURE_UIUX_01 and submission through the official portal. The attached internship handbook separately gives the UI/UX naming format FUTURE_UX_TaskNumber (example FUTURE_UX_02). Keep the existing email-requested repository intact for now; verify the exact Task 1 repository naming requirement in the official portal before any rename. The handbook says the official portal is the required submission channel.
+## Official internship submission requirements
+The selection email instructs the intern to create the public repository **FUTURE_UIUX_01**, upload design files/prototypes/resources, and submit the repository link through the official task submission form. It also requires sharing the offer letter on LinkedIn, tagging Future Interns and using **#futureinterns**. The handbook says all completed tasks must be submitted only through the official Task Submission Portal using the CIN ID. It separately specifies the UI/UX repository naming pattern **FUTURE_UX_TaskNumber**. Because the selection email explicitly names FUTURE_UIUX_01, do not rename the existing repository without confirming the conflict with the program.
+
+**Current handoff:** The public repository and GitHub Pages deployment are in place. The official portal submission and final Figma visual audit are not confirmed complete.
